@@ -13,3 +13,7 @@ Além dos LEDs, um display LCD é utilizado para mostrar mensagens descritivas c
 Adicionalmente, um buzzer (ou piezoelétrico) emite sons para complementar os avisos visuais, tocando diferentes frequências conforme a proximidade detectada.
 
 Esse sistema é projetado para operar de maneira contínua, atualizando as leituras do sensor e fornecendo feedback instantâneo sobre a distância, garantindo que o usuário possa tomar medidas apropriadas com base nas informações fornecidas pelos LEDs, LCD e sons emitidos pelo buzzer.
+
+Link do projeto funcional:
+
+https://www.tinkercad.com/things/7j7c0p36oij-gs?sharecode=LU1vXijyEEb3li0MTat1-UxuX2y0S6d7Opc3JRaH6yo
